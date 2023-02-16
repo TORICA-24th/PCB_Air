@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Seeeduino XIAO")(type "Legacy")(uri "${KIPRJMOD}/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+  (lib (name "DPS310")(type "KiCad")(uri "${KIPRJMOD}/DPS310/DPS310.kicad_sym")(options "")(descr ""))
+)
